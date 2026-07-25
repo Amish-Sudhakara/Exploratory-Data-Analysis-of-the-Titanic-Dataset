@@ -1,0 +1,20 @@
+,Missing Values,Missing Percentage
+PassengerId,0,0.0
+Survived,0,0.0
+Pclass,0,0.0
+Name,0,0.0
+Sex,0,0.0
+Age,0,0.0
+SibSp,0,0.0
+Parch,0,0.0
+Ticket,0,0.0
+Fare,0,0.0
+Cabin,0,0.0
+Embarked,0,0.0
+HasCabin,0,0.0
+Deck,0,0.0
+Title,0,0.0
+FamilySize,0,0.0
+IsAlone,0,0.0
+AgeGroup,0,0.0
+FareGroup,0,0.0

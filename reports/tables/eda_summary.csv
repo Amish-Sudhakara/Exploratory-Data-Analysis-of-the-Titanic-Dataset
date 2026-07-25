@@ -1,0 +1,14 @@
+Metric,Value
+Original rows,891.0
+Cleaned rows,891.0
+Original columns,12.0
+Cleaned columns,19.0
+Duplicate rows removed,0.0
+Overall survival rate (%),38.38
+Female survival rate (%),74.2
+Male survival rate (%),18.89
+First-class survival rate (%),62.96
+Third-class survival rate (%),24.24
+Children survival rate (%),57.97
+Travelling alone survival rate (%),30.35
+Travelling with family survival rate (%),50.56

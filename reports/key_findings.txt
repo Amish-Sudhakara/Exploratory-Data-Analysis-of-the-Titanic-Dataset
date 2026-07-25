@@ -1,0 +1,12 @@
+Titanic Data Cleaning and EDA - Key Findings
+=======================================================
+
+1. The overall passenger survival rate was 38.38%.
+2. Female passengers had a survival rate of 74.20%, compared with 18.89% for male passengers.
+3. First-class passengers had a survival rate of 62.96%, while third-class passengers had a survival rate of 24.24%.
+4. Children had a survival rate of approximately 57.97%.
+5. Passengers travelling alone had a survival rate of 30.35%, compared with 50.56% for passengers travelling with family.
+6. The median fare was 26.00 for survivors and 10.50 for non-survivors.
+7. Passengers with recorded cabin information had a survival rate of 66.67%, compared with 29.99% for passengers without recorded cabin information.
+8. Gender and passenger class showed some of the clearest relationships with survival. Fare, family size, age group, title, embarkation port, and cabin availability also showed noticeable patterns.
+9. These relationships show association rather than direct causation. For example, fare and cabin information are also strongly connected to passenger class.

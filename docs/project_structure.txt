@@ -1,0 +1,34 @@
+Exploratory Data Analysis of the Titanic Dataset/
+├── data
+│   ├── processed
+│   │   └── titanic_cleaned.csv
+│   └── raw
+│       └── README.md
+├── docs
+│   └── methodology.md
+├── notebooks
+│   └── Titanic_EDA.ipynb
+├── reports
+│   ├── figures
+│   │   ├── 01_survival_distribution.png
+│   │   ├── 02_survival_by_gender.png
+│   │   ├── 03_survival_by_class.png
+│   │   ├── 04_survival_by_gender_and_class.png
+│   │   ├── 05_age_distribution_by_survival.png
+│   │   ├── 06_survival_by_age_group.png
+│   │   ├── 07_fare_by_survival.png
+│   │   ├── 08_survival_by_fare_group.png
+│   │   ├── 09_survival_by_family_size.png
+│   │   ├── 10_survival_alone_vs_family.png
+│   │   ├── 11_survival_by_embarkation_port.png
+│   │   ├── 12_survival_by_cabin_availability.png
+│   │   ├── 13_survival_by_title.png
+│   │   └── 14_correlation_heatmap.png
+│   ├── tables
+│   │   ├── eda_summary.csv
+│   │   ├── missing_values_after_cleaning.csv
+│   │   └── missing_values_before_cleaning.csv
+│   └── key_findings.txt
+├── .gitignore
+├── README.md
+└── requirements.txt

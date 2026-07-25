@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Kaggle and temporary outputs
+*.zip
+kaggle.json
+
+# Do not commit raw competition data
+data/raw/*.csv
+!data/raw/README.md
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
